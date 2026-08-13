@@ -6,7 +6,7 @@
 
 <div align="center">
 <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
-<img alt="Hola" align="center" height="12.5%" src="https://images.unsplash.com/photo-1615789591457-74a63395c990?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bGl0dGxlJTIwY2F0fGVufDB8fDB8fHww"></img><br>
+<img alt="Hola" align="center" width ="22%" src="https://images.unsplash.com/photo-1615789591457-74a63395c990?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bGl0dGxlJTIwY2F0fGVufDB8fDB8fHww"></img><br>
 
 </div>
  <p align="center">
