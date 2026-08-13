@@ -6,7 +6,7 @@
 
 <div align="center">
 <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
-<img alt="Hola" align="center" width ="100%" src="https://i.ytimg.com/vi/HKkbMqnhDkw/maxresdefault.jpg"></img><br>
+<img alt="Hola" align="center" width ="15%" src="https://i.ytimg.com/vi/HKkbMqnhDkw/maxresdefault.jpg"></img><br>
 
 </div>
  <p align="center">
