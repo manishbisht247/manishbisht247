@@ -12,7 +12,6 @@
 
 <br>
 
-<img alt="coding" width="55%" src="https://i.ytimg.com/vi/HKkbMqnhDkw/maxresdefault.jpg">
 
 </div>
 
