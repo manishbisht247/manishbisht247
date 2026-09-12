@@ -1,149 +1,243 @@
-# <div align="center"><img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img> !Hey Guyss, Welcome😘, <img alt="Hola" height="30px" width="40px" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png"></img>
+<div align="center">
+
+<img alt="welcome" height="55" width="60" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif">
+
+# 👋 Hey Everyone, I'm Manish Bisht!
+
+<img alt="ghost" height="30" width="40" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png">
+
+### 🧠 Data • Machine Learning • NLP • Python
+
+<img alt="bongo-cat" height="90" width="90" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif">
+
+<br>
+
+<img alt="coding" width="55%" src="https://i.ytimg.com/vi/HKkbMqnhDkw/maxresdefault.jpg">
 
 </div>
 
+---
 
+# 👨‍💻 About Me
+
+I'm a **B.Tech Computer Science Engineering student** interested in understanding how data can be transformed into meaningful insights and intelligent solutions.
+
+My primary areas of interest are:
+
+- 📊 **Data Analysis**
+- 🤖 **Machine Learning**
+- 🧠 **Natural Language Processing**
+- 🐍 **Python**
+- 🗄️ **SQL & Databases**
+- 📈 **Exploratory Data Analysis**
+- 🚀 **Machine Learning Deployment**
+
+I enjoy building projects where I can go beyond simply training a model and actually understand the **data, features, relationships and results** behind it.
+
+---
 
 <div align="center">
-<img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
-<img alt="Hola" align="center" width ="15%" src="https://i.ytimg.com/vi/HKkbMqnhDkw/maxresdefault.jpg"></img><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
- <p align="center">
 
-</p>
- 
+# 🛠️ Languages & Tools
 
-                  
+<div align="center">
 
+<img alt="chika" height="60" width="60" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
 
-      
-  <br>
-  
+### 🐍 Programming & Development
 
+<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
 
- <div align="center">
-<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
- <b> Languages and Tools:<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
-<br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/backbonejs/backbonejs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-<br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-<br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
-<br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code><br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/gruntjs/gruntjs-ar21.svg"></code>
-<br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg"></code>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-  <br>
-</p>
-
-### Computer :> Programs && Tools
-
-<img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
-
-```mermaid
-flowchart TB
- A>"Computer"]  
- B[("Programs")] 
- C[("Tools")]
- A --> B
- A --> C
-``` 
-- <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/vscode.png" width=16> **Vscode** not for web it for everything
-- <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/chromium.png" width=16> Chromium base web browser like **Firefox** 
-- <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/gimp.png" width=16> <a href="https://getpaint.net">**Gimp**</a> for image manipulation
-- <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/popos.png" width=16> linux I highly prefer Arch. but, sometimes you can rely on debiun. so, **PopsOs** by (System76)
-
-- 🌱 I’m currently learning more about **Reactjs(Nextjs)**.
-- 👯 I’m looking to collaborate on [github](https://github.com/DSDarkMark/project_short "DSmark Project").
-- 🤔 I’m looking for help with Nextjs documentation.
-- 💬 Ask me about web Development or any tech-related stuff.
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost time to watch **anime**.
-
-## Technologies 
-
-```mermaid
-flowchart 
-f1[HTML]
-f2[Css]
-f3[javaScpit]
-f4[Markdown]
-fw1((ReactJs))
-fw2((NextJs))
-fw3((Bootstrap))
-fw4((tailwind))
-fw5((Scss))
-fw6((mermaid))
-b1{NodeJs}
-b2{RestAPIs}
-b3{PHP}
- subgraph  BackEnd
-b1
-b2
-b3
- end  
- subgraph Framworks 
-fw1
-fw2
-fw3
-fw4
-fw5
-fw6
- end
-  subgraph  FrontEnd 
- f1
- f2
- f3
- f4
- end  
- f1 --o f2
- f1 --o f3
- f1 --o f4
- f2 --> fw3
- f2 --> fw4
- f2 --> fw5
- f3 --o fw1
- f3 --o fw2
- fw2 --o b1
- f4 --> fw6
- b1 --o b2
- ```
-
-## Touch Me  ˊ•⌔•ˋ 
-
-|[Discord](https://discord.gg/xm4DN6JTVt)|[Github](https://github.com/DSDmark/)|[LinkIn]()|[DevToCommunity](https://dev.to/dsmark)|[Gmail](sahup3296@gmail.com)|
-|:-|:-|:-|:-|:--|
----
-
-> **Youth is a lie. It is nothing but evil.**
-
-Those who rejoice in youth deceive themselves and those around them, accepting in full the circumstances that devour them. 
-ʕ •́؈•̀ ₎
-In the face of the word " **Youth**  ", they will twist any common interpretation or accepted notion out of recognition.
-
-In their minds, lies, secrets, sins, and failure are nothing more than the spice of youth.
-
-If failure is truly the proof of one's youth...
-
-Then is there not something abnormal about But I am sure none of them would admit to this. It is all a double standard.
-
-My conclusion is this All you fools who delight in youth...
-
-> **Be Drop Dead.**
-
-  <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
 
 ---
 
+### 📊 Data Analysis & Visualization
 
-Credit:[Sanskarsahu](https://github.com/DSDmark)
-Last Edited on: 1/4/2022
+<img src="https://www.vectorlogo.zone/logos/pandas/pandas-ar21.svg">
+
+<img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg">
+
+<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">
+
+<img src="https://img.shields.io/badge/Matplotlib-Data%20Visualization-11557C?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+
+---
+
+### 🤖 Machine Learning
+
+<img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+
+<img src="https://img.shields.io/badge/XGBoost-Machine%20Learning-EC2D01?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-2563EB?style=for-the-badge">
+
+---
+
+### 🧠 NLP & Computer Vision
+
+<img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-8B5CF6?style=for-the-badge">
+
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg">
+
+---
+
+### 🗄️ Databases
+
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+
+<img src="https://img.shields.io/badge/SQL-Database%20Querying-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+---
+
+### 🚀 Deployment & Applications
+
+<img src="https://img.shields.io/badge/Streamlit-Application%20Development-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+
+<img src="https://img.shields.io/badge/GitHub-Version%20Control-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+# 🚀 Featured Projects
+
+## 🎬 Movie Recommendation System
+
+A **content-based movie recommendation system** that recommends movies based on metadata similarity.
+
+### Technologies
+
+`Python` `Pandas` `Scikit-Learn` `NLP` `Streamlit`
+
+🔗 **Live Demo:**  
+https://movie-recommendation-manish.streamlit.app
+
+---
+
+## 📉 Customer Churn Prediction
+
+An end-to-end Machine Learning project focused on predicting customer churn while deeply analysing the dataset and feature relationships.
+
+### 🔍 What I worked on
+
+- Data cleaning
+- Feature transformation
+- Exploratory Data Analysis
+- Feature relevance analysis
+- Correlation analysis
+- Collinearity detection
+- Statistical testing
+- Model building
+- Hyperparameter tuning
+- Model evaluation
+
+### 📊 Model Performance
+
+| Metric | Score |
+|---|---:|
+| Precision | **91.95%** |
+| Recall | **84.21%** |
+| F1 Score | **87.91%** |
+| ROC-AUC | **94.11%** |
+
+🔗 **Repository:**  
+https://github.com/manishbisht247/CustomerChurnPrediction
+
+---
+
+## 👤 Face Recognition Attendance
+
+A Computer Vision based attendance system that recognizes faces in real time and automatically records attendance.
+
+### Technologies
+
+`Python` `OpenCV` `NumPy` `Pandas`
+
+### Features
+
+- 📷 Real-time face detection
+- 🧠 Face recognition
+- 📝 Automatic attendance recording
+- 📊 Attendance data management
+
+🔗 **Repository:**  
+https://github.com/manishbisht247/face-recognition-attendance
+
+---
+
+## 🌳 Decision Tree Dashboard
+
+An interactive Machine Learning dashboard for experimenting with Decision Tree models and visualizing the effect of different hyperparameters.
+
+### Technologies
+
+`Python` `Scikit-Learn` `Streamlit`
+
+### Features
+
+- 🌳 Decision Tree visualization
+- 🎛️ Hyperparameter tuning
+- 📊 Model evaluation
+- 📈 Interactive interface
+
+🔗 **Repository:**  
+https://github.com/manishbisht247/decision-tree-dashboard
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+# 🧠 My Data & ML Workflow
+
+```text
+                    ┌─────────────────┐
+                    │     Raw Data    │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │  Data Cleaning  │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │      EDA        │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │Feature Analysis │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ Feature         │
+                    │ Engineering     │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ Machine         │
+                    │ Learning        │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ Model           │
+                    │ Evaluation      │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ Deployment 🚀   │
+                    └─────────────────┘
